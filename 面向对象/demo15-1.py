@@ -49,3 +49,5 @@ phone1 = Phone()
 #print(phone1.note) #phone1没有这个属性，同一个类的对象，出现了不同的属性。
 myPhone.call()
 Phone.call(myPhone)
+
+#还是不学微软的语言吧。总是效率那么低。当然的VB就是深有体会。切切。PHP,JAVA,PYTHON
