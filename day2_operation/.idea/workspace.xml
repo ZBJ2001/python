@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="017db910-332b-40ab-907d-09e4104493eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKKedqEKLDoXpVPO0sKPrsyc26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo01.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\day2_operation\lesson9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo14-3生成器和迭代器">
+    <configuration name="demo10-13(匿名函数)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson10/demo10-13(匿名函数).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo14-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson14/demo14-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo14-2集合推导式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson14/demo14-2集合推导式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo14-3生成器和迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson14/demo14-3生成器和迭代器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo5-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo5-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo5-3 元组" type="PythonConfigurationType" factoryName="Python">
+      <module name="day2_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo5-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo14-3生成器和迭代器" />
+        <item itemvalue="Python.demo14-2集合推导式" />
+        <item itemvalue="Python.demo14-1" />
+        <item itemvalue="Python.demo10-13(匿名函数)" />
+        <item itemvalue="Python.demo5-1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="017db910-332b-40ab-907d-09e4104493eb" name="Default Changelist" comment="" />
+      <created>1582685941130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582685941130</updated>
+      <workItem from="1582685954236" duration="20324000" />
+      <workItem from="1582797259632" duration="13929000" />
+      <workItem from="1582896696417" duration="3412000" />
+      <workItem from="1582984693147" duration="3753000" />
+      <workItem from="1583027894118" duration="20595000" />
+      <workItem from="1583133806372" duration="15102000" />
+      <workItem from="1583245034176" duration="631000" />
+      <workItem from="1583305381717" duration="3895000" />
+      <workItem from="1583313841074" duration="10822000" />
+      <workItem from="1583411123221" duration="6645000" />
+      <workItem from="1583496137656" duration="4146000" />
+      <workItem from="1583578492129" duration="3307000" />
+      <workItem from="1583644952485" duration="215000" />
+      <workItem from="1583669677562" duration="7034000" />
+      <workItem from="1583758517957" duration="4675000" />
+      <workItem from="1583824014289" duration="10690000" />
+      <workItem from="1583896050104" duration="18324000" />
+      <workItem from="1584105037935" duration="2770000" />
+      <workItem from="1584189344815" duration="624000" />
+      <workItem from="1584330177616" duration="39000" />
+      <workItem from="1584360373344" duration="256000" />
+      <workItem from="1584360635425" duration="31000" />
+      <workItem from="1584360667793" duration="7683000" />
+      <workItem from="1584433952862" duration="11255000" />
+      <workItem from="1584793617062" duration="7984000" />
+      <workItem from="1584843525270" duration="3830000" />
+      <workItem from="1584861630437" duration="20918000" />
+      <workItem from="1584929179846" duration="9133000" />
+      <workItem from="1584966733745" duration="8053000" />
+      <workItem from="1585146240360" duration="707000" />
+      <workItem from="1585229023777" duration="1132000" />
+      <workItem from="1585297088822" duration="1546000" />
+      <workItem from="1585298702722" duration="12449000" />
+      <workItem from="1585392654678" duration="8010000" />
+      <workItem from="1585474128035" duration="1199000" />
+      <workItem from="1585659267952" duration="2933000" />
+      <workItem from="1585727305243" duration="12637000" />
+      <workItem from="1585744249437" duration="263000" />
+      <workItem from="1585744555782" duration="5346000" />
+      <workItem from="1585916122863" duration="4727000" />
+      <workItem from="1586009766565" duration="738000" />
+      <workItem from="1586523407565" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585229435087">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="182" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585229435087" />
+    <state x="435" y="78" key="#demo5-3" timestamp="1584882978175">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="435" y="78" key="#demo5-3/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1584882978175" />
+    <state x="435" y="78" key="#demo5-3_元组" timestamp="1584883029538">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="435" y="78" key="#demo5-3_元组/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1584883029538" />
+    <state x="1940" y="188" key="FileChooserDialogImpl" timestamp="1584366620802">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="188" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1584360807693" />
+    <state x="1940" y="188" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1440.860@1440.0.1440.860" timestamp="1584366620802" />
+    <state width="1397" height="142" key="GridCell.Tab.0.bottom" timestamp="1585924120267">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="142" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585924120267" />
+    <state width="1380" height="257" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1440.860@1440.0.1440.860" timestamp="1584938031032" />
+    <state width="1397" height="142" key="GridCell.Tab.0.center" timestamp="1585924120267">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="142" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585924120267" />
+    <state width="1380" height="257" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1440.860@1440.0.1440.860" timestamp="1584938031032" />
+    <state width="1397" height="142" key="GridCell.Tab.0.left" timestamp="1585924120267">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="142" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585924120267" />
+    <state width="1380" height="257" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1440.860@1440.0.1440.860" timestamp="1584938031032" />
+    <state width="1397" height="142" key="GridCell.Tab.0.right" timestamp="1585924120267">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="142" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585924120267" />
+    <state width="1380" height="257" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1440.860@1440.0.1440.860" timestamp="1584938031032" />
+    <state width="1397" height="400" key="GridCell.Tab.1.bottom" timestamp="1585406233153">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="400" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585406233153" />
+    <state width="1397" height="400" key="GridCell.Tab.1.center" timestamp="1585406233153">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="400" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585406233153" />
+    <state width="1397" height="400" key="GridCell.Tab.1.left" timestamp="1585406233153">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="400" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585406233153" />
+    <state width="1397" height="400" key="GridCell.Tab.1.right" timestamp="1585406233153">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="400" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585406233153" />
+    <state x="408" y="274" key="Performance.Activity.Monitor" timestamp="1585229282911">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="408" y="274" key="Performance.Activity.Monitor/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585229282911" />
+    <state x="223" y="75" key="SettingsEditor" timestamp="1585298822829">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="223" y="75" key="SettingsEditor/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1585298822829" />
+    <state x="412" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1586009766049">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="412" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1586009766049" />
+    <state x="296" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583761702169">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="296" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1583761702169" />
+    <state x="274" y="169" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583763285186">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="274" y="169" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1583763285186" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584438182897">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1584438182897" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson10/demo10-3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_13__.coverage" NAME="demo10-13(匿名函数) Coverage Results" MODIFIED="1585743279694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1582899830521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_6.coverage" NAME="demo10-6 Coverage Results" MODIFIED="1585308577671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_2__.coverage" NAME="demo10-2(关键字参数) Coverage Results" MODIFIED="1584974926938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1584368154362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_5__.coverage" NAME="demo10-5(全局变量和局部变量) Coverage Results" MODIFIED="1585305580807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo14_3.coverage" NAME="demo14-3生成器和迭代器 Coverage Results" MODIFIED="1585919580438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson14" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_3.coverage" NAME="demo10-3 Coverage Results" MODIFIED="1583761931614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$task03.coverage" NAME="task03 Coverage Results" MODIFIED="1584883749284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_13.coverage" NAME="demo10-13 Coverage Results" MODIFIED="1585661588836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1583054876652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo6_1.coverage" NAME="demo6-1 Coverage Results" MODIFIED="1583322409500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo5_3.coverage" NAME="demo5-3 元组 Coverage Results" MODIFIED="1584882996856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_11___.coverage" NAME="demo10-11(带参数装饰器 三层函数) Coverage Results" MODIFIED="1585659885477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_8.coverage" NAME="demo10-8 Coverage Results" MODIFIED="1583899845314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo5_3__.coverage" NAME="demo5-3(元组) Coverage Results" MODIFIED="1584967442020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_5.coverage" NAME="demo10-5 Coverage Results" MODIFIED="1583829821475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_6__.coverage" NAME="demo10-6(闭包) Coverage Results" MODIFIED="1585317815591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_10.coverage" NAME="demo10-10 Coverage Results" MODIFIED="1583923015093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_2.coverage" NAME="demo10-2 Coverage Results" MODIFIED="1583760394064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo6_3__.coverage" NAME="demo6-3(字典) Coverage Results" MODIFIED="1584933487282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_12.coverage" NAME="demo10-12 Coverage Results" MODIFIED="1585661304045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo6_3.coverage" NAME="demo6-3 Coverage Results" MODIFIED="1583417397161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo4_2.coverage" NAME="demo4-2 Coverage Results" MODIFIED="1584869847791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1584443380211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$task01.coverage" NAME="task01 Coverage Results" MODIFIED="1584866287995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_15.coverage" NAME="demo10-15 Coverage Results" MODIFIED="1584107636559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_11.coverage" NAME="demo10-11 Coverage Results" MODIFIED="1585403646926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo14_2.coverage" NAME="demo14-2集合推导式 Coverage Results" MODIFIED="1585916253264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson14" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo5_2.coverage" NAME="demo5-2 Coverage Results" MODIFIED="1584867052897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_14.coverage" NAME="demo10-14 Coverage Results" MODIFIED="1583938852736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$.coverage" NAME="可变与不可变 Coverage Results" MODIFIED="1584951293566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_7.coverage" NAME="demo10-7 Coverage Results" MODIFIED="1585317452894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo4_1.coverage" NAME="demo4-1 Coverage Results" MODIFIED="1584800613366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo5_1.coverage" NAME="demo5-1 Coverage Results" MODIFIED="1585727784388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1582986364006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$task02.coverage" NAME="task02 Coverage Results" MODIFIED="1584868454899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_8__.coverage" NAME="demo10-8(装饰器) Coverage Results" MODIFIED="1585402558724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo14_1.coverage" NAME="demo14-1 Coverage Results" MODIFIED="1585751234019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson14" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo6_2.coverage" NAME="demo6-2 Coverage Results" MODIFIED="1583333546374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo9_1__1_.coverage" NAME="demo9-1 (1) Coverage Results" MODIFIED="1583670458429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo6_1__.coverage" NAME="demo6-1(集合) Coverage Results" MODIFIED="1584888205969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_1__.coverage" NAME="demo10-1(可变参数) Coverage Results" MODIFIED="1584967668752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_4.coverage" NAME="demo10-4 Coverage Results" MODIFIED="1583825684797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo9_1.coverage" NAME="demo9-1 Coverage Results" MODIFIED="1583496906993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_9.coverage" NAME="demo10-9 Coverage Results" MODIFIED="1585401621560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+    <SUITE FILE_PATH="coverage/day2_operation$demo10_1.coverage" NAME="demo10-1 Coverage Results" MODIFIED="1583673150945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10" />
+  </component>
+</project>
