@@ -1,6 +1,6 @@
 '''
 魔术方法
-1.__init__
+1.__init__  重点
 初始化魔术方法
     触发时机：初始化对象时触发（不是实例化触发，但是和实例化在一个操作中）
     参数：至少有一个self，接收对象
@@ -38,7 +38,7 @@
     注意：返回值必须必须是整数，否则语法报错，另外该要求是格式要求
 
 
-6.__str__
+6.__str__  重点
     触发时机:使用print(对象)或者str(对象)的时候触发
     参数：一个self接收对象
     返回值：必须是字符串类型
@@ -66,6 +66,9 @@
     注意：无
 
 
+
+  sys.getrefcount(p) #关于地址的引用次数。
+
 '''
 import sys
 
@@ -88,9 +91,36 @@ class Person:
 
     def __del__(self):
         print('----------->del')
+
+    def __str__(self):
+        return '姓名是:'+self.name
+
+    def func(self):
+        print('普通方法')
+
+    @classmethod
+    def classfunc(cls):
+        print('类方法，通过类名调用，也可以对象调用')
+
+    @staticmethod
+    def staticfunc():
+        print('静态方法')
 p = Person('zbj')
+#对象当函数使用方式
 p()
 p('hello')
 p('zbj','km')
+p1 = p
+p2 = p
+print('id(p1)',id(p1))
+print('id(p2)',id(p2))
 
+del p1
+del p2
 print('sys.getrefcount(p)',sys.getrefcount(p))
+
+# __str__魔术方法的使用
+#没用时 显示的是对象的地址。
+print(p)
+print(str(p))
+
