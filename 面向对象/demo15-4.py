@@ -33,7 +33,7 @@ class Student:
     @name.setter
     def name(self, name):
         if len(name) < 10:
-            __name = name
+            self.__name = name
         else:
             print('name is too long')
 
@@ -42,6 +42,7 @@ stu1 = Student('zbj', 45)
 stu1.set_age(30)
 
 stu1.set_age(130)
+stu1.name = 'km'
 print(stu1)
 
 # 显示类的自带的属性
