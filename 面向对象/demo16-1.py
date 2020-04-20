@@ -83,3 +83,5 @@ book1 = Book('鬼吹灯', '天下霸唱', 8)
 # stu.borrow_book(book1)
 print(stu.books)
 print(comp1)
+print('hello mac')
+#苹果机器操作，同步到git.第一次。
