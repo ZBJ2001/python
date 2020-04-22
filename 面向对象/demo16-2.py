@@ -10,10 +10,10 @@ class Person:
         self.age = age
 
     def eat(self):
-        print('{} 正在吃东西...'.format(self.name))
+        pass
 
     def run(self):
-        pass
+        print('{} 正在吃东西...'.format(self.name))
 
 class Student(Person):
     pass
