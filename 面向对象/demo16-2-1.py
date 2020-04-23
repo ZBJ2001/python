@@ -86,3 +86,4 @@ d.test() #如果每个父类都有Test，搜索顺序从左至右。
 import inspect
 print(inspect.getmro(D))
 print(D.__mro__)
+print('hello')
