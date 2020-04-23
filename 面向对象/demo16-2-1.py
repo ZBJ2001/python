@@ -56,3 +56,33 @@ e.eat()
 patients = ['z3','l4','w5']
 d = Doctor('doctor',50,patients)
 d.show_patients()
+class Base:
+    def test(self):
+        print('-------Base')
+
+class A(Base):
+    def test(self):
+        print('-------->AAAAAAAAAAAAA')
+
+class B(Base):
+    def test(self):
+        print('----------->BBBBBBBB')
+
+class C(Base):
+    def test(self):
+        print('---------->CCCCCCCCCCCC')
+
+class D(A,B,C):
+    pass
+
+
+c = C()
+c.test()
+
+d = D()
+d.test() #如果每个父类都有Test，搜索顺序从左至右。
+#广度优先，深度优先。
+
+import inspect
+print(inspect.getmro(D))
+print(D.__mro__)
