@@ -10,4 +10,15 @@
 from 包名 import 模块
 from 包名.模块名 import 成员
 
+__init__.py的作用。
+
+
 '''
+import user
+# from user.models import User
+
+from article.models import Article
+article = Article('个人总结','zbj')
+
+user.create_app()
+user.printA()
