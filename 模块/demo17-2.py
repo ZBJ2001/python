@@ -11,3 +11,20 @@ from 包名 import 模块
 from 包名.模块名 import 成员
 
 '''
+
+from article.models import Article
+
+import article
+
+from article import *
+
+
+from 模块.calculate import add
+from 模块.article.models import Article
+
+from 模块.article.models import *
+from 模块.article.models import Article
+
+
+print(add(3,4,5))
+print(Article('zbj','zbj'))

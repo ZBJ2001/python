@@ -11,3 +11,5 @@ class Tag:
     def __init__(self,name):
         self.name = name
 
+
+print('-----------> models.py 执行命令')
