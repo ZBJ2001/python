@@ -16,7 +16,9 @@ print(randomnumber)
 prices = [1200, 5330, 2988, 6200, 1998, 8888]
 sales = [int(x*0.5) for x in prices]
 print(sales)
+print([int(x*0.5) if x > 300 else int(x*1) for x in [100,200,300,400,50] if x > 100])
 
+exit()
 #从列表中选择和符合条件的元素组成新列表
 sales = [x for x in prices if x > 5000]
 print("原列表：",prices)
@@ -30,7 +32,9 @@ print(list(filter(lambda x: len(x) > 3, names)))
 # 推导式
 list1 = [name for name in names if len(name) > 3]  # 第一个name是导出的新元素
 print(list1)
-exit()
+
+
+
 # 过滤后首字母变大写
 list1 = [name.title() for name in names if len(name) > 3]
 print(list1)
@@ -54,7 +58,9 @@ def func():
 
 
 func()
-print([(x, y) for x in range(5) if x % 2 == 0 for y in range(10) if y % 2 != 0])  # 第一个for是外层循环，第二个for是内层循环
+
+# 第一个for是外层循环，第二个for是内层循环
+print([(x, y) for x in range(5) if x % 2 == 0 for y in range(10) if y % 2 != 0])
 
 # 元素是列表，取其最后一个元素。即取元素的最后一个元素。
 list1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [1, 3, 5]]
@@ -69,6 +75,6 @@ dict4 = {'name': 'jack', 'salary': 8000}
 
 list1 = [dict1, dict2, dict3, dict4]
 # 前面是大于5000，后面是小于5000
-print([person['salary'] + 200 if person['salary'] > 5000 else person['salary'] + 500 for person in list1])
+print([person['salary'] + 200 if person['salary'] > 5000 else person['salary'] + 500 for person in list1 if person['salary']>2000])
 
 print([person['salary'] + 200 if person['salary'] > 5000 else person['salary'] + 500 for person in list1])

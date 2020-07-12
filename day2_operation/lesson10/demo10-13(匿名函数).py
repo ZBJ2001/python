@@ -56,7 +56,7 @@ def test1(x, y, func):
 test1(5, 6, f1)
 test1(7, 8, lambda x, y: x * y)
 test1(7, 8, lambda x, y: x + y)
-
+exit()
 # 求最大值
 list1 = [3, 5, 8, 9, 10]
 m = max(list1)
