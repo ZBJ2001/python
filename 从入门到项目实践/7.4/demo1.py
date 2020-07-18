@@ -4,6 +4,6 @@ strtemp = '2018 Amazon Jeff Bezos 1120'
 str1 = strtemp[5:]
 print(str1)
 
-#2得到纯数字  推导式应用之一
-str2 = ''.join([x for x in strtemp if x.isdigit() ])
+#2得到纯数字
+str2 = ''.join([x  for x in strtemp if x.isdigit() ])
 print(str2)
