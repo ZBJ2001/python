@@ -1,5 +1,4 @@
-
-#列表里的是import * 导入的成员
+# 列表里的是import * 导入的成员
 __all__ = ['']
 # 变量
 number = 100
@@ -58,11 +57,11 @@ class Calculater:
         print('-------->Calculater中的静态方法')
 
 
-
-
 def test():
     print('--------->测试代码 ')
-print('__name__:',__name__)
+
+
+print('__name__:', __name__)
 if __name__ == '__main__':
-    print('__name__:',__name__)
+    print('__name__:', __name__)
     test()

@@ -12,31 +12,25 @@
     如果不希望调用，就会用到__name__
 
 '''
-import random #导入模块 这样调用是 模块.成员。
+import random  # 导入模块 这样调用是 模块.成员。
 import calculate
 from calculate import add
-from calculate import number,name,Calculater
-
-
-
-
-
-
+from calculate import number, name, Calculater
 
 # for i in range(1,10):
 #     r = random.randint(1, 10)
 #     print(r)
 
-#调用模块里的函数 模块名.变量/函数/类。
-list1 = [2,3,4,5]
+# 调用模块里的函数 模块名.变量/函数/类。
+list1 = [2, 3, 4, 5]
 print(calculate.add(*(list1)))
 
-print('calculate.number',calculate.number)
+print('calculate.number', calculate.number)
 calculate.Calculater(10).test()
 calculate.Calculater.test1()
 calculate.Calculater.test2()
 
-print(add(1,3,43,number))
+print(add(1, 3, 43, number))
 print(name)
 
 Calculater(10).test()

@@ -18,13 +18,11 @@ import article
 
 from article import *
 
-
 from 模块.calculate import add
 from 模块.article.models import Article
 
 from 模块.article.models import *
 from 模块.article.models import Article
 
-
-print(add(3,4,5))
-print(Article('zbj','zbj'))
+print(add(3, 4, 5))
+print(Article('zbj', 'zbj'))

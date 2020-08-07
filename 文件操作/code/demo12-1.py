@@ -41,6 +41,7 @@ mode: r w
 import os
 import ntpath
 
+
 # stream = open(r'E:\python\文件操作\aa.txt')
 
 # container = stream.read()
@@ -83,24 +84,26 @@ import ntpath
 # # result = stream.readable() #判断是否可以读取。
 # print(stream.read())
 
-#复制练习
+# 复制练习
 def fun1():
     with open(r'../images/1.jpg', 'rb') as stream:
-        container = stream.read() #读取文件内容
+        container = stream.read()  # 读取文件内容
 
-    with open(r'E:\python\文件操作\2.jpg','wb') as wstream:
+    with open(r'E:\python\文件操作\2.jpg', 'wb') as wstream:
         wstream.write(container)
     print('文件复制完成！')
 
-#复制目录下所有文件练习
+
+# 复制目录下所有文件练习
 def fun2():
-    path = os.path.dirname(__file__) #获取当前文件所在的文件目录 绝对路径
+    path = os.path.dirname(__file__)  # 获取当前文件所在的文件目录 绝对路径
     print(path)
 
-    #返回上级 ../跳到上一级.
-#OS.PATH学习
-def fun3():
+    # 返回上级 ../跳到上一级.
 
+
+# OS.PATH学习
+def fun3():
     '''
         os.path常用函数
         dirname()
@@ -113,52 +116,52 @@ def fun3():
         isdir()
     :return:
     '''
-    #isabs()判断路径是绝对还是相对。
+    # isabs()判断路径是绝对还是相对。
     print(os.path.isabs(r'E:\p1\1.txt'))
-    print(os.path.isabs('../images/1.jpg')) #../ 返回上一级.
-    #获取路径
+    print(os.path.isabs('../images/1.jpg'))  # ../ 返回上一级.
+    # 获取路径
 
     # 获取当前文件所在的文件目录 绝对路径
     path = os.path.dirname(__file__)
     print(path)
 
     # 获得指定文件的绝对路径。
-    path= os.path.abspath('demo12-1.py')
+    path = os.path.abspath('demo12-1.py')
     print(path)
 
-    #获取当前文件的绝对路径
+    # 获取当前文件的绝对路径
     path = os.path.abspath(__file__)
     print(path)
 
     # 获取当前文件所在的文件目录 绝对路径
-    path=os.getcwd()
+    path = os.getcwd()
     print(path)
 
-    r= os.path.isfile(os.getcwd())
-    print('os.path.isfile(os.getcwd())---->',r)
-    r=os.path.isdir(os.getcwd())
+    r = os.path.isfile(os.getcwd())
+    print('os.path.isfile(os.getcwd())---->', r)
+    r = os.path.isdir(os.getcwd())
 
-    print('os.path.isdir(os.getcwd())---->',r)
+    print('os.path.isdir(os.getcwd())---->', r)
 
     result = os.path.split(__file__)
-    print('os.path.split(__file__)---->',result)
+    print('os.path.split(__file__)---->', result)
 
-    filename=__file__
-    print(filename[filename.rfind('/')+1:]) #得到文件名
+    filename = __file__
+    print(filename[filename.rfind('/') + 1:])  # 得到文件名
 
-    print('__file__----->',__file__)
+    print('__file__----->', __file__)
 
-    result = os.path.splitext(__file__)  #文件扩展名
-    print('os.path.splitext(__file__)---->',result)
+    result = os.path.splitext(__file__)  # 文件扩展名
+    print('os.path.splitext(__file__)---->', result)
 
-    result = os.path.getsize(__file__) #获取文件大小,单位是字节.
+    result = os.path.getsize(__file__)  # 获取文件大小,单位是字节.
     print('os.path.getsize(__file__)---->', result)
 
-    result = os.path.join(os.getcwd(),'file','a1.txt')
+    result = os.path.join(os.getcwd(), 'file', 'a1.txt')
     print("os.path.join(os.getcwd(),'file','a1.txt')---->", result)
 
 
-#os中函数。
+# os中函数。
 def fun4():
     '''
         os.getcwd() #获取当前目录
@@ -171,20 +174,18 @@ def fun4():
 
     :return:
     '''
-    print('os.getcwd()----->',os.getcwd()) #当前目录
+    print('os.getcwd()----->', os.getcwd())  # 当前目录
     print('os.listdir(os.getcwd()----->', os.listdir(os.getcwd()))  # 当前目录
-
-
 
     # if not os.path.exists(r'e:/p3/p4'): #判断文件夹是否存在
     #     result = os.mkdir(r'e:\p3/p4')  # 创建目录
 
     # os.rmdir(r'e:\p3\p4') #删除目录 ，只能删除空文件夹。
 
- #   r= os.removedirs('e:/p3') #删除多层目录。
- #   print('删除成功---->',r)
+    #   r= os.removedirs('e:/p3') #删除多层目录。
+    #   print('删除成功---->',r)
 
-    #os.remove('../../../p3/p4/aa.txt') #删除文件
+    # os.remove('../../../p3/p4/aa.txt') #删除文件
 
     # path = 'e:/p3/p4'
     # if not os._exists(path): return
@@ -196,22 +197,25 @@ def fun4():
     #     os.rmdir(path)
     # print('{0}删除成功',path)
 
-    #切换目录
-    os.chdir('c:') #改变目录
-    print(os.getcwd()) #获取当前路径
+    # 切换目录
+    os.chdir('c:')  # 改变目录
+    print(os.getcwd())  # 获取当前路径
 
-#文件复制
+
+# 文件复制
 src = 'e:/p1'
 target = 'e:/p2'
-def copy(src,target):
+
+
+def copy(src, target):
     if os.path.isdir(src) and os.path.isdir(target):
         filelist = os.listdir(src)
         for file in filelist:
-            filefullname = os.path.join(src,file)
-            with open(filefullname,'rb') as rstream:
+            filefullname = os.path.join(src, file)
+            with open(filefullname, 'rb') as rstream:
                 container = rstream.read()
-                tarfullname = os.path.join(target,file)
-                with open(tarfullname,'wb') as wstream:
+                tarfullname = os.path.join(target, file)
+                with open(tarfullname, 'wb') as wstream:
                     wstream.write(container)
         else:
             print('文件复制完成！')
@@ -219,19 +223,20 @@ def copy(src,target):
         print('参数不是目录，无法复制！')
 
 
-def copywithdir(src,target):
+def copywithdir(src, target):
     # print(os.listdir(src))
     for file in os.listdir(src):
-        path = os.path.join(src,file)
+        path = os.path.join(src, file)
         if os.path.isdir(path):
-            os.mkdir(os.path.join(target,file))
-            copywithdir(os.path.join(src,file),os.path.join(target,file))
+            os.mkdir(os.path.join(target, file))
+            copywithdir(os.path.join(src, file), os.path.join(target, file))
         else:
-            with open(path,'rb') as rstream:
+            with open(path, 'rb') as rstream:
                 container = rstream.read()
-                tarfullname = os.path.join(target,file)
-                with open(tarfullname,'wb') as wstream:
+                tarfullname = os.path.join(target, file)
+                with open(tarfullname, 'wb') as wstream:
                     wstream.write(container)
 
-copywithdir(src,target)
+
+copywithdir(src, target)
 exit()

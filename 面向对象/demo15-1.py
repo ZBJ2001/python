@@ -165,3 +165,18 @@ dog1.test1()
 #静态方法
 print('---------->静态方法')
 Person.test()
+
+
+class Ta:
+    def __init__(self):
+        print('Ta的构造函数')
+    def func1(self):
+        print('Ta的func方法')
+class Taa(Ta):
+    pass
+
+class Tab(Ta):
+    pass
+
+aa = Taa()
+aa.func1()

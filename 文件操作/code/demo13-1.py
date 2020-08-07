@@ -38,7 +38,7 @@ def func1():
         #     print(rstream.read())
         list1 = []
         list1.pop()
-            #异常匹配是从上向下顺序匹配。
+        # 异常匹配是从上向下顺序匹配。
     except ZeroDivisionError:
         print('除数不能为零！')
     except ValueError:
@@ -48,9 +48,9 @@ def func1():
     # except FileNotFoundError:
     #     pass
     except Exception as err:
-        print('出错了！',err)
+        print('出错了！', err)
 
-    #如果是多个except，最大的放在最后。
+    # 如果是多个except，最大的放在最后。
 
 
 def func2():
@@ -61,12 +61,12 @@ def func2():
     except ValueError:
         print('必须是数字...')
         return 2
-    else: #只要没报错,就会进入else.但try中有return.是有问题的.永远无法进入到else
-        print('数字输入完毕!') #没有异常才会执行的代码块
+    else:  # 只要没报错,就会进入else.但try中有return.是有问题的.永远无法进入到else
+        print('数字输入完毕!')  # 没有异常才会执行的代码块
 
 
 def func3():
-    stream =None #块内声明变量其他块无法直接访问.所以先声明一下
+    stream = None  # 块内声明变量其他块无法直接访问.所以先声明一下
     try:
         stream = open('e:/p1/aa.txt')
         container = stream.read()
@@ -80,14 +80,16 @@ def func3():
         if stream:
             stream.close()
         return 3
-    #如果有finally，一定会执行finally。
+    # 如果有finally，一定会执行finally。
 
-#抛出异常
+
+# 抛出异常
 def func4():
     username = input('输入用户名：')
-    if len(username)<6:
+    if len(username) < 6:
         raise Exception('用户名长度必须6位以上')
     else:
         print('输入用户名{0}'.format(username))
+
 
 func4()
